@@ -1,0 +1,10 @@
+{
+  "services":
+  {
+    "positive_test_case_01":
+    {
+      "username": "administrator",
+      "password": "administrator"
+    }
+  }
+}

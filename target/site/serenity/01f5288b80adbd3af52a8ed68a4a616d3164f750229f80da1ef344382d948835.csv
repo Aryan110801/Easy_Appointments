@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login Scenarios of Easy Appointments Website","User will try to login with wrong password","SUCCESS","2023-03-17T09:48:36.507419+05:30[Asia/Calcutta]","0.0","0.26"
+"Login Scenarios of Easy Appointments Website","User will try to login with wrong username and wrong password","SUCCESS","2023-03-17T09:48:36.7912553+05:30[Asia/Calcutta]","0.0","0.16"
+"Login Scenarios of Easy Appointments Website","User try to login without entering username","SUCCESS","2023-03-17T09:48:36.9781473+05:30[Asia/Calcutta]","0.0","0.15"
+"Login Scenarios of Easy Appointments Website","User try to login without entering password","SUCCESS","2023-03-17T09:48:37.1570405+05:30[Asia/Calcutta]","0.0","0.16"
+"Login Scenarios of Easy Appointments Website","User try to login without entering username and password","SUCCESS","2023-03-17T09:48:37.3369372+05:30[Asia/Calcutta]","0.0","0.08"
+"Login Scenarios of Easy Appointments Website","User try to login by entering password with capital alphabets","SUCCESS","2023-03-17T09:48:37.4418765+05:30[Asia/Calcutta]","0.0","0.11"
+"Login Scenarios of Easy Appointments Website","User try to login to easy automation website by entering valid username and password","SUCCESS","2023-03-17T09:48:37.6037808+05:30[Asia/Calcutta]","0.0","0.1"

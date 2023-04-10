@@ -1,0 +1,62 @@
+{
+  "login":
+  {
+    "negative_test_case_01":
+    {
+      "username": "aryan",
+      "password": "administrator"
+    },
+
+    "negative_test_case_02":
+    {
+      "username": "administrator",
+      "password": "aryan"
+    },
+
+    "negative_test_case_03":
+    {
+      "username": "aryan",
+      "password": "pandey"
+    },
+
+    "negative_test_case_04":
+    {
+      "username": "",
+      "password": "administrator"
+    },
+
+    "negative_test_case_05":
+    {
+      "username": "administrator",
+      "password": ""
+    },
+
+    "negative_test_case_06":
+    {
+      "username": "",
+      "password": ""
+    },
+
+    "negative_test_case_07":
+    {
+      "username": "administrator",
+      "password": "ADMINISTRATOR"
+    },
+
+    "positive_test_case_01":
+    {
+      "username": "administrator",
+      "password": "administrator"
+    },
+
+    "Alert":
+    {
+      "message": "Login failed, please enter the correct credentials and try again."
+    },
+
+    "Invalid credentials":
+    {
+      "message": "Invalid credentials given!"
+    }
+  }
+}

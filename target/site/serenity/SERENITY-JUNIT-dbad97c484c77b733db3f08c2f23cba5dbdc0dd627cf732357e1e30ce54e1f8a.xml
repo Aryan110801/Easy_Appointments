@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="8" failures="0" name="Login Scenarios of Easy Appointments Website" skipped="0" tests="8" time="17.97" timestamp="2023-03-23 10:19:57"><testcase name="User will try to login with wrong username"><error message="Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.&#10;However, the gherkin step has 1 arguments:&#10; * Table:&#10;      | negative_test_case_01 |&#10;&#10;Step text: User enters username and password" type="io.cucumber.core.exception.CucumberException">Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_01 |
+
+Step text: User enters username and password</error><system-err>Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_01 |
+
+Step text: User enters username and password&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.arityMismatch(PickleStepDefinitionMatch.java:83)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:42)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:130)&#13;
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:130)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)&#13;
+io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:259)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:59)&#13;
+</system-err></testcase><testcase name="User will try to login with wrong password"><error message="Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.&#10;However, the gherkin step has 1 arguments:&#10; * Table:&#10;      | negative_test_case_02 |&#10;&#10;Step text: User enters username and password" type="io.cucumber.core.exception.CucumberException">Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_02 |
+
+Step text: User enters username and password</error><system-err>Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_02 |
+
+Step text: User enters username and password&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.arityMismatch(PickleStepDefinitionMatch.java:83)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:42)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:130)&#13;
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:130)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)&#13;
+io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:259)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:59)&#13;
+</system-err></testcase><testcase name="User will try to login with wrong username and wrong password"><error message="Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.&#10;However, the gherkin step has 1 arguments:&#10; * Table:&#10;      | negative_test_case_03 |&#10;&#10;Step text: User enters username and password" type="io.cucumber.core.exception.CucumberException">Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_03 |
+
+Step text: User enters username and password</error><system-err>Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_03 |
+
+Step text: User enters username and password&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.arityMismatch(PickleStepDefinitionMatch.java:83)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:42)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:130)&#13;
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:130)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)&#13;
+io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:259)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:59)&#13;
+</system-err></testcase><testcase name="User try to login without entering username"><error message="Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.&#10;However, the gherkin step has 1 arguments:&#10; * Table:&#10;      | negative_test_case_04 |&#10;&#10;Step text: User enters username and password" type="io.cucumber.core.exception.CucumberException">Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_04 |
+
+Step text: User enters username and password</error><system-err>Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_04 |
+
+Step text: User enters username and password&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.arityMismatch(PickleStepDefinitionMatch.java:83)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:42)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:130)&#13;
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:130)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)&#13;
+io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:259)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:59)&#13;
+</system-err></testcase><testcase name="User try to login without entering password"><error message="Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.&#10;However, the gherkin step has 1 arguments:&#10; * Table:&#10;      | negative_test_case_05 |&#10;&#10;Step text: User enters username and password" type="io.cucumber.core.exception.CucumberException">Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_05 |
+
+Step text: User enters username and password</error><system-err>Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_05 |
+
+Step text: User enters username and password&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.arityMismatch(PickleStepDefinitionMatch.java:83)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:42)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:130)&#13;
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:130)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)&#13;
+io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:259)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:59)&#13;
+</system-err></testcase><testcase name="User try to login without entering username and password"><error message="Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.&#10;However, the gherkin step has 1 arguments:&#10; * Table:&#10;      | negative_test_case_06 |&#10;&#10;Step text: User enters username and password" type="io.cucumber.core.exception.CucumberException">Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_06 |
+
+Step text: User enters username and password</error><system-err>Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_06 |
+
+Step text: User enters username and password&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.arityMismatch(PickleStepDefinitionMatch.java:83)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:42)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:130)&#13;
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:130)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)&#13;
+io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:259)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:59)&#13;
+</system-err></testcase><testcase name="User try to login by entering password with capital alphabets"><error message="Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.&#10;However, the gherkin step has 1 arguments:&#10; * Table:&#10;      | negative_test_case_07 |&#10;&#10;Step text: User enters username and password" type="io.cucumber.core.exception.CucumberException">Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_07 |
+
+Step text: User enters username and password</error><system-err>Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | negative_test_case_07 |
+
+Step text: User enters username and password&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.arityMismatch(PickleStepDefinitionMatch.java:83)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:42)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:130)&#13;
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:130)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)&#13;
+io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:259)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:59)&#13;
+</system-err></testcase><testcase name="User try to login to easy automation website by entering valid username and password"><error message="Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.&#10;However, the gherkin step has 1 arguments:&#10; * Table:&#10;      | positive_test_case_01 |&#10;&#10;Step text: User enters username and password" type="io.cucumber.core.exception.CucumberException">Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | positive_test_case_01 |
+
+Step text: User enters username and password</error><system-err>Step [User enters username and password] is defined with 0 parameters at 'StepDef.LoginStepDef.user_enters_username_and_password()'.
+However, the gherkin step has 1 arguments:
+ * Table:
+      | positive_test_case_01 |
+
+Step text: User enters username and password&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.arityMismatch(PickleStepDefinitionMatch.java:83)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:42)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:130)&#13;
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:130)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)&#13;
+io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:259)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:59)&#13;
+</system-err></testcase></testsuite>
