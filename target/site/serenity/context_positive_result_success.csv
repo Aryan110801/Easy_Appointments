@@ -1,2 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Login Scenarios of Easy Appointments Website","User try to login to easy automation website by entering valid username and password","SUCCESS","2023-03-30T12:44:43.9532906+05:30[Asia/Calcutta]","0.0","7.25"
+"Test Cases for Customer Page","User try to login to easy automation website by entering valid username and password","SUCCESS","2023-04-11T13:26:07.6230541+05:30[Asia/Calcutta]","0.0","33.52"
+"Login Scenarios of Easy Appointments Website","User try to login to easy automation website by entering valid username and password","SUCCESS","2023-04-03T12:13:16.349175+05:30[Asia/Calcutta]","0.0","7.6"
+"Test Case scenario for Services Page","User try to login to easy automation website by entering valid username and password","SUCCESS","2023-04-10T09:54:08.3448055+05:30[Asia/Calcutta]","0.0","30.4"

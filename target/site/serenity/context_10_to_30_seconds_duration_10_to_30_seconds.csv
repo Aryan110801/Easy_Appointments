@@ -1,3 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
 "Login Scenarios of Easy Appointments Website","User will try to login with wrong username","ERROR","2023-03-23T10:19:57.722362+05:30[Asia/Calcutta]","0.0","17.18"
-"Login Scenarios of Easy Appointments Website","User will try to login with wrong username","SUCCESS","2023-03-30T12:43:41.9562678+05:30[Asia/Calcutta]","0.0","21.17"
+"Login Scenarios of Easy Appointments Website","User will try to login with wrong username","SUCCESS","2023-04-03T12:12:10.2019931+05:30[Asia/Calcutta]","0.0","25.31"
+"Test Case scenario for Services Page","User try to login to the SRK homepage with valid ID and password","ERROR","2023-04-07T11:58:17.3452347+05:30[Asia/Calcutta]","0.0","25.29"
